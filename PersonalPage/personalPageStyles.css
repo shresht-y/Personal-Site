@@ -1,0 +1,124 @@
+.tabs{
+  text-decoration: none;
+display: inline;
+  padding: 10px;
+  color: #F2F2F2;
+  font-size: 30px;
+}
+
+.link{
+  display: block;
+  text-align: center;
+  font-size: 30px;
+}
+
+.text{
+  text-align: center;
+  color: #F2F2F2;
+  font-style: bold;
+  font-size: 20px;
+
+}
+
+.text:hover{
+  font-size: 30px;
+}
+
+
+a{
+  color:  #F2F2F2;
+
+}
+
+a:hover{
+    color: #585858;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  background-size: cover;
+  margin: 0;
+
+}s
+
+#nav{
+  text-decoration: none;
+  font-size: 20px;
+  display: inline;
+  border: 1px solid: rgb(60, 20, 75);
+  padding: 15px;
+  margin: 10px;
+  float: left;
+  text-align: center;
+  position: relative;
+  overflow: visible;
+  color: #F2F2F2;
+  list-style-type: none;
+}
+
+
+
+.tabs:hover{
+  background-color: #BDBDBD;
+  border-radius: 8px;
+  padding: 15px;
+  color: #585858;
+}
+
+body{
+  margin-top: 0px;
+}
+
+#title{
+  text-align: center;
+  font-size: 75px;
+  font-style: bold;
+  color: #F2F2F2;
+  font-family: monospace;
+}
+
+#myPhoto{
+  padding: 15px;
+  width: 250px;
+  height: 200px;
+  transform: rotate(90deg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#friends{
+  width: 450px;
+  height: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+#soundhealth{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 500px;
+}
+
+.repic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 600px;
+}
+
+
+.pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
